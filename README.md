@@ -1,7 +1,7 @@
 ### Hello 👋
 ## I'm Rafael Caires
 - 📍 Living in Belo Horizonte, Brazil
-- 🎓 Bachelor's degree in Systems Engineering (UFMG) - Last year
+- 🎓 Bachelor's degree in Systems Engineering (UFMG)
 - 🚀 Working as a Senior Web Developer (since 2022)
 - 🛠️ Experienced in C#, .NET, SQL Server, Vue.js, React, Python, QuestDB
 - 🧠 Passionate about Software Engineering, Optimization, AI, and Real-time Systems
